@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my GitHub profile.
 
-<!--
-**RohitMaurya-16/RohitMaurya-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer with a strong focus on **fundamentals, clean design, and intentional engineering**.  
+My work centers around writing code that is not only functional, but **structured, maintainable, and visually elegant**.
 
-Here are some ideas to get you started:
+# 💻 I actively work with:
+• Java for strong foundational logic  
+• JavaScript for dynamic web behavior  
+• Python for automation, scripting, and AI exploration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 What sets my approach apart:
+• I value simplicity over unnecessary abstraction  
+• I care deeply about how code is organized and read  
+• I believe good software should feel effortless to use and understand  
+
+🚀 This space represents growth — experimenting, refining, and improving with every commit.  
+Whether it’s a small utility or a larger project, my goal remains the same:  
+**build things with clarity, confidence, and character**.
+
+✨ Always learning. Always leveling up.
+
