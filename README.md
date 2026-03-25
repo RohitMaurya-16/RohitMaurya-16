@@ -10,7 +10,7 @@
 🌱 I'm currently learning new technologies and frameworks
 👯 I'm looking to collaborate on open source projects
 💬 Ask me about your tech stack here
-📫 How to reach me: your.email@example.com
+📫 How to reach me: rohitmaurya1604@gmail.com
 ⚡ Fun fact: Something interesting about you!
 
 
