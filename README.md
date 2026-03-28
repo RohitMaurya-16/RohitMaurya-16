@@ -51,14 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitMaurya-16&theme=onedark&no-frame=true&column=7" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
