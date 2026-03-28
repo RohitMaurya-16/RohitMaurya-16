@@ -45,10 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitMaurya-16&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitMaurya-16&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 ---
 
 ## 📌 Featured Projects
